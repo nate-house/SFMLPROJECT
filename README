@@ -1,0 +1,30 @@
+SFML Data Structures Visualization Project
+Overview
+This project is a graphical visualization of several fundamental data structures implemented using SFML (Simple and Fast Multimedia Library). The program provides a visual representation of the
+following data structures:
+
+Linked List
+Binary Search Tree (BST)
+Heap (Max Heap)
+Red-Black Tree
+Stack
+Priority Queue (Max-Heap)
+Key Features:
+Interactive Menu: The user can select a data structure from the main menu to visualize its operations.
+Visualization: Each data structure is visualized graphically using shapes (circles, rectangles) and lines connecting parent-child relationships.
+Insertion Operations: Data structures support insertion of nodes, and the visual representation updates in real-time.
+SFML Graphics: The project uses SFML for graphical rendering and event handling, providing an interactive and dynamic display.
+****\_\_\_****IMPORTANT******\_******
+The user is presented with a simple menu containing the following options:
+
+Linked List
+Binary Search Tree
+Heap
+Red-Black Tree
+Stack
+Priority Queue (Max-Heap)
+Exit
+****\_\_\_\_****WHAT HAPPENS IN THE CODE?****\_\_\_\_****
+The user can navigate through the options using the arrow keys (Up, Down) and select an option with the Enter key.
+
+When a data structure is selected, the corresponding visualization is displayed:
